@@ -231,14 +231,8 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Volumes/HD 750GB/dev/Udacity/FE-Nano-projects"
-	],
 	"file_history":
 	[
-		"/Volumes/HD 750GB/dev/Udacity/FE-Nano-projects/index.html",
-		"/Volumes/HD 750GB/dev/Udacity/FE-Nano-projects/P1-Interactive-Resume/css/main",
 		"/Volumes/HD 750GB/dev/Udacity/FE-Nano-projects/.git/COMMIT_EDITMSG",
 		"/Volumes/HD 750GB/dev/Udacity/FE2/frontend-nanodegree-resume/index.html",
 		"/Volumes/HD 750GB/dev/Udacity/FE2/frontend-nanodegree-resume/js/resumeBuilder.js",
@@ -364,7 +358,9 @@
 		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/users_spec.rb",
 		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/home_spec.rb",
 		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/homes_spec.rb",
-		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/scaffolds.css.scss"
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/scaffolds.css.scss",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/db/migrate/20131001215152_add_details_to_homes.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/db/migrate/20131001214726_add_location_to_homes.rb"
 	],
 	"find":
 	{
@@ -382,7 +378,6 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"\">\n",
 			"google",
 			"locations",
 			"online\n",
