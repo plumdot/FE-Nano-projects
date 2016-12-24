@@ -1,0 +1,649 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"location"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"start",
+				"start"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padi",
+				"padding20"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"copy",
+				"copy-images"
+			],
+			[
+				"browser",
+				"browserSync"
+			],
+			[
+				"o",
+				"ocount"
+			],
+			[
+				"num",
+				"numberOfOccurrences"
+			],
+			[
+				"article",
+				"article_params"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"p",
+				"p\tpadding"
+			],
+			[
+				"click_",
+				"click_link"
+			],
+			[
+				"shoul",
+				"should"
+			],
+			[
+				"have",
+				"have_content"
+			],
+			[
+				"gravatar",
+				"gravatar_id"
+			],
+			[
+				"passw",
+				"password_digest"
+			],
+			[
+				"be",
+				"be_valid"
+			],
+			[
+				"should",
+				"should_not"
+			],
+			[
+				"Help",
+				"Help"
+			],
+			[
+				"help",
+				"help"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"list",
+				"list\tlist-style-type"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"prodt",
+				"product"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"border-col",
+				"border-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"clean",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"clea",
+				"CleanCSS: Clean current file"
+			],
+			[
+				"Package INsta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins\t",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet html",
+				"Snippet: html"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syn jav",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/HD 750GB/dev/Udacity/FE-Nano-projects/.git/COMMIT_EDITMSG",
+		"/Volumes/HD 750GB/dev/Udacity/FE2/frontend-nanodegree-resume/index.html",
+		"/Volumes/HD 750GB/dev/Udacity/FE2/frontend-nanodegree-resume/js/resumeBuilder.js",
+		"/Volumes/HD 750GB/dev/Udacity/FE2/frontend-nanodegree-resume/js/helper.js",
+		"/Users/MBP13/.bash_profile",
+		"/Volumes/HD 750GB/Downloads/bash_profile_course",
+		"/Users/MBP13/.oh-my-zsh/plugins/github/github.plugin.zsh",
+		"/Users/MBP13/git-completion.zsh",
+		"/Users/MBP13/.zshrc",
+		"/Users/MBP13/Desktop/updated.txt",
+		"/Users/MBP13/git-prompt.sh",
+		"/Users/MBP13/git-promt.sh",
+		"/Users/MBP13/Downloads/zscrc",
+		"/Users/MBP13/Desktop/test1.txt",
+		"/Users/MBP13/Desktop/touch",
+		"/Users/MBP13/Desktop/foo.txt",
+		"/Users/MBP13/z.sh",
+		"/Volumes/HD 750GB/Downloads/GrandCircus/Shooting Gallery/Assets/Scripts/SpawnTargets.cs",
+		"/Volumes/HD 750GB/Downloads/GrandCircus/Shooting Gallery/Assets/Scripts/Shoot.cs",
+		"/Volumes/HD 750GB/Downloads/GrandCircus/Shooting Gallery/Assets/Scripts/CheckCollision.cs",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/frontend-mockup-to-article-master/fend-animal-trading-cards-master/main.css",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/frontend-mockup-to-article-master/fend-animal-trading-cards-master/styles.css",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/frontend-mockup-to-article-master/practice-keyboard-shortcuts/css/main.css",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/frontend-mockup-to-article-master/writing-selectors/index.html",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/frontend-mockup-to-article-master/mockup-to-article/index.html",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/index.html",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/web-dev-blog/index.html",
+		"/Volumes/HD 750GB/dev/Udacity/FrontEnd/frontend-mockup-to-article-master/mockup-to-article/reflections.txt",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/README.md",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/plumdot.sublime-workspace",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/plumdot.sublime-project",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/index.html",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/feed.xml",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/blog.sublime-workspace",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/_config.yml",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/about.md",
+		"/Volumes/HD 750GB/Dropbox/com/plumdot.github.io/blog.sublime-project",
+		"/Users/MBP13/.bash_aliases",
+		"/Users/MBP13/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/src/pages/index.html",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/bower.json",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/CHANGELOG.md",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/gulpfile.js",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/package.json",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/readme.md",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/sample2016.sublime-project",
+		"/Volumes/HD 750GB/dev/foo/SampleFeb2016/sample2016.sublime-workspace",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/SampleProject/dist/js/all.js",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/SampleProject/package.json",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/SampleProject/js/foo.js",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/SampleProject/open",
+		"/Users/MBP13/.npmrc",
+		"/Users/MBP13/.bashrc",
+		"/.npm-packages",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/Gulp/foo.sublime-workspace",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/Gulp/foo.sublime-project",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/Gulp/sass/extra.scss",
+		"/Volumes/HD 750GB/dev/Udacity/WebToolingAutomation/Gulp/gulp.js",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/_sass/_base.scss",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/css/main.scss",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/_posts/2015-06-14-coderbyte.markdown",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/_posts/2015-06-19-mooc-list.markdown",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/README.md",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/index.html",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/feed.xml",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/about.md",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/_config.yml",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/_posts/2015-06-16-reading-list.markdown",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/.git/MERGE_MSG",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/_sass/_layout.scss",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/_site/about/index.html",
+		"/Volumes/HD 750GB/Dropbox/com/blog_jekyll/blog_template/.git/COMMIT_EDITMSG",
+		"/Volumes/HD 750GB/dev/rails/blog/app/models/article.rb",
+		"/Volumes/HD 750GB/dev/rails/blog/app/views/welcome/index.html.erb",
+		"/Volumes/HD 750GB/dev/rails/blog/app/controllers/articles.html.erb",
+		"/Users/MBP13/Documents/dev/foo",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/homes/new.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/home_pages_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/homes/index.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/controllers/homes_controller.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/factories.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/config/routes.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/homes/show.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/models/home_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/Gemfile",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/config/database.yml",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/users/new.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/user_pages_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/controllers/users_controller.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/homes/foo.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/layouts/_header.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/models/home.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/db/seeds.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/revelrous/foo.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/config/environments/production.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/public/assets/winterfell-4f6fa36372fbde96289a9ee03f3acb9b.jpeg",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/.git/config",
+		"/Volumes/HD 750GB/dev/sandbox/rails/myapp/.git/config",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/forms.css.scss",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/users/_form.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/sessions/new.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/layouts/application.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/authentication_pages_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/shared/_home_error_messages.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/shared/_error_messages.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/homes/_form.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/custom.css.scss",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/application.css",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/models/user_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/users/show.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/controllers/sessions_controller.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/helpers/sessions_helper.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/helpers/sessions_helper.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/models/user.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/controllers/application_controller.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/static_pages_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/home_page.css.scss",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/users.css.scss",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/views/homes/_home.html.erb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/user_page_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/config/initializers/time_formats.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/lib/tasks/sample_data.rake",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/users_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/home_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/spec/requests/homes_spec.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/app/assets/stylesheets/scaffolds.css.scss",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/db/migrate/20131001215152_add_details_to_homes.rb",
+		"/Volumes/HD 750GB/dev/sandbox/rails/revelrous/db/migrate/20131001214726_add_location_to_homes.rb"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"google",
+			"locations",
+			"online\n",
+			"online",
+			"nano",
+			"console",
+			"bio.welcomeMessage",
+			"skills",
+			"git",
+			"bash_com",
+			"skill",
+			"skills",
+			"\n$(\"#",
+			"\">\n",
+			">: ",
+			">\n",
+			"concat",
+			"watch",
+			"img",
+			"\t<",
+			"h4",
+			"user_param",
+			"user",
+			"sqlite3",
+			"ruby",
+			"signin page",
+			"border",
+			"class",
+			"name",
+			"signup",
+			"page",
+			"signup page",
+			"user",
+			"grayMediumLight",
+			"primary",
+			"btn",
+			"visited",
+			"form",
+			"loc",
+			"city",
+			"ruby",
+			"rse",
+			"user_params",
+			"..com",
+			"invalid_add",
+			"before_save",
+			"rspec",
+			"update",
+			"show",
+			"col-md-8",
+			"carousel",
+			"css",
+			".bs-docs-sidenav\n",
+			"affix",
+			"ruby",
+			"less-ra",
+			"#footer",
+			"less",
+			"caret",
+			"css",
+			"name",
+			"{",
+			"side",
+			".subheader",
+			"line-height",
+			"$subheader",
+			"subheadrs",
+			"lighten",
+			"\n\n\n\n",
+			"lighten",
+			"logo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" {"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 172.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "FENANO.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"database",
+				"config/database.yml"
+			],
+			[
+				"sessions_helper",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sessions_cont",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"users_controller",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"spec/requests/user_pages",
+				"spec/requests/user_pages_spec.rb"
+			],
+			[
+				"app/models/user",
+				"app/models/user.rb"
+			],
+			[
+				"users_contro",
+				"revelrous/app/controllers/users_controller.rb"
+			],
+			[
+				"home_pacss.scss",
+				"revelrous/app/assets/stylesheets/home_page.css.scss"
+			],
+			[
+				"application.html",
+				"revelrous/app/views/layouts/application.html.erb"
+			],
+			[
+				"authentication_pages",
+				"sample_app/spec/requests/authentication_pages_spec.rb"
+			],
+			[
+				"new.html.erb",
+				"revelrous/app/views/users/new.html.erb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"routes.rb",
+				"revelrous/config/routes.rb"
+			],
+			[
+				"app/controller/home",
+				"revelrous/app/controllers/homes_controller.rb"
+			],
+			[
+				"app/models/home",
+				"revelrous/app/models/home.rb"
+			],
+			[
+				"config/rou",
+				"revelrous/config/routes.rb"
+			],
+			[
+				"views/users/index",
+				"revelrous/app/views/users/index.html.erb"
+			],
+			[
+				"users_controll",
+				"revelrous/app/controllers/users_controller.rb"
+			],
+			[
+				"application.html.",
+				"revelrous/app/views/layouts/application.html.erb"
+			],
+			[
+				"style.css",
+				"stylesheets/style.css"
+			],
+			[
+				"app.css",
+				"stylesheets/app.css"
+			],
+			[
+				"app.sc",
+				"sass/app.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
