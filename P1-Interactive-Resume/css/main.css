@@ -2,8 +2,15 @@ body {
   font-family: 'Roboto Condensed', sans-serif; }
 
 #top-area-bg {
-  background-color: #4355A3;
+  background-color: #C2CBCE;
   padding-bottom: 20px; }
 
-#work-experience-bg .job .job-description {
-  padding-top: 10px; }
+#work-experience-bg {
+  background-color: #fafafa; }
+  #work-experience-bg .job .job-description {
+    padding-top: 10px; }
+
+#projects-bg .img-responsive {
+  margin: 10px;
+  max-width: 31%;
+  float: left; }
