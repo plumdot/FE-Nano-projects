@@ -1,9 +1,9 @@
+$top-area-bg-color: #C2CBCE;
+$test-color: #fafafa;
 body {
-	font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
-$top-area-bg-color: #4355A3;
-$test-color: #ababab;
 #top-area-bg {
     background-color: $top-area-bg-color;
     padding-bottom: 20px;
@@ -17,20 +17,24 @@ $test-color: #ababab;
 
 #contact-info {}
 
-
 // work experience 
 #work-experience-bg {
-	// height: 200px;
-	// background-color: $test-color;
-
-	.job {
-	// background-color: $test-color;
-
-	.job-description {
-		padding-top: 10px;
-	}
-}
+    // height: 200px;
+    background-color: #fafafa;
+    .job {
+        // background-color: $test-color;
+        .job-description {
+            padding-top: 10px;
+        }
+    }
 }
 
-
-
+// projects
+#projects-bg {
+    .img-responsive {
+        margin: 10px;
+        max-width: 31%;
+        float: left;
+        // max-height: 80px;
+    }
+}
