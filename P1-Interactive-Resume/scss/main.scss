@@ -1,6 +1,17 @@
-.container-fluid {
-    height: 1rem;
-    margin-bottom: .5rem;
-    background-color: #daeeff;
-    border-radius: .25rem;
+$top-area-bg-color: #4355A3;
+$test-color: #ababab;
+#top-area-bg {
+    height: 300px;
+    background-color: $top-area-bg-color;
+}
+
+#name-title-contact-shell {
+}
+
+#name-title-contact {
+}
+
+#name-title {}
+
+#contact-info {
 }

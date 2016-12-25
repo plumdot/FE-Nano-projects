@@ -9,6 +9,11 @@ gulp.task('styles', function() {
         .pipe(browserSync.reload({ stream: true }));
 });
 
+gulp.task('index', function() {
+    gulp.src('./index.html')
+        .pipe(browserSync.reload({ stream: true }));
+});
+
 gulp.task('serve', function() {
 	browserSync.init({
 		server: {
@@ -20,4 +25,4 @@ gulp.task('serve', function() {
 	gulp.watch('./**/*.html').on('change', browserSync.reload);
 });
 
-gulp.task('default', ['styles', 'serve']);
+gulp.task('default', ['styles', 'serve', 'index']);
