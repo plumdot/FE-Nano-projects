@@ -14,3 +14,9 @@ body {
   margin: 10px;
   max-width: 31%;
   float: left; }
+
+#projects-bg .project-description {
+  padding-top: 10px; }
+
+#education-bg {
+  background-color: #fafafa; }
