@@ -37,14 +37,29 @@ body {
         float: left;
         // max-height: 80px;
     }
-	
-	.project-description {
-		padding-top: 10px;
-	}
+    .project-description {
+        padding-top: 10px;
+    }
 }
 
 // education 
-
 #education-bg {
     background-color: #fafafa;
+    padding-bottom: 20px;
 }
+
+// footer
+#footer {
+    background-color: #A4BCC2;
+    height: 80px;
+
+	p {
+		height: 40px;
+	}
+
+    .container {
+    	    height: 80px; 
+    		line-height: 80px;
+    }
+}
+

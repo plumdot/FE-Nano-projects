@@ -19,4 +19,14 @@ body {
   padding-top: 10px; }
 
 #education-bg {
-  background-color: #fafafa; }
+  background-color: #fafafa;
+  padding-bottom: 20px; }
+
+#footer {
+  background-color: #A4BCC2;
+  height: 80px; }
+  #footer p {
+    height: 40px; }
+  #footer .container {
+    height: 80px;
+    line-height: 80px; }
